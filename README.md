@@ -1,0 +1,3 @@
+- Hi! I'm Breror Rexha.
+- I am 19 years old.
+- I like programming and drawing.
